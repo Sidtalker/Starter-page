@@ -1,0 +1,67 @@
+body{
+	background-image: url(Best-HD-and-4K-rick-and-morty-wallpapers-for-desktop-4_4d470f76dc99e18ad75087b1b8410ea9.png);
+	background-size: cover;
+	width: 100%;
+	min-width: 600px;
+	margin: auto;
+	font-family: sans-serif;
+	color: white;
+}
+
+nav li{
+	display: inline-block;
+	padding: 0px 10px;
+	margin: 0px 5px;
+	background: rgba(250, 120, 205, 0.8);
+
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+a:hover{
+	color:black ;
+}
+
+h1{
+	margin: auto;
+	padding-top: 50px;
+	text-align: center;
+	color: hsl(210, 82%, 77%);
+
+}
+h3{
+	font-weight: bold;
+	font-size: 30px;
+	margin-left: 10px;
+	color:  hsl(210, 82%, 77%);
+	float: left;
+}
+p{
+	margin-left: 5px;
+	font-size: 20px;
+}
+.pic{
+	margin: auto;
+	padding-right: 80px;
+	padding-bottom: 50px;
+	text-align: center;
+	color:  hsl(210, 82%, 77%);
+}
+.contact{
+	padding-bottom: 100px;
+	padding-left: 20px;
+	float: left;
+
+}
+img{
+	position: relative;
+	left: 40%;
+}
+
+footer{
+	margin-bottom: 0px;
+	text-align: right;
+	background-color:rgba(0, 0, 255, 0.2);
+	clear: both;
+}

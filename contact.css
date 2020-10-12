@@ -1,0 +1,45 @@
+body{
+	background-image: url(bosco-shots-OSjM5tBqDSE-unsplash.jpg);
+	background-size: cover;
+	width: 100%;
+	min-width: 600px;
+	margin: auto;
+	font-family: sans-serif;
+	color: white;
+}
+
+nav li{
+	display: inline-block;
+	padding: 0px 10px;
+	margin: 0px 5px;
+	background: rgba(100, 250, 155, 0.8);
+
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+a:hover{
+	color:black ;
+}
+
+
+textarea{
+	width: 169px;
+	height: 100px
+}
+.Contact{
+	margin-bottom: 100px;
+	width: 216px;
+	border-width: 150px;
+}
+.submit{
+	text-align: right;
+}
+footer{
+	margin-bottom: 0px;
+	text-align: right;
+	color: white;
+	background-color:rgba(0, 0, 255, 0.2);
+	clear: both;
+}
